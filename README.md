@@ -9,3 +9,4 @@
 "# Regression-I-" 
 "# Statistical-Computing" 
 "# Time-Series-Analysis" 
+"# Multivariate-Statistics-Analysis" 

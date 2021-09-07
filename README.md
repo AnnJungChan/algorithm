@@ -10,3 +10,5 @@
 "# Statistical-Computing" 
 "# Time-Series-Analysis" 
 "# Multivariate-Statistics-Analysis" 
+"# Staticstical-Programming-with-R" 
+"# Statistics-Programming-Language" 
